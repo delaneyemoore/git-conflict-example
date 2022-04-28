@@ -1,0 +1,3 @@
+git can help
+git can be great
+conflicts bad
