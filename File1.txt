@@ -1,3 +1,3 @@
-Git can be a great and helpful tool for developers.
+Git can be a great and helpful tool for developers and anyone who likes to code.
 Git can be awesome!!
-Conflicts are not fun.
+Conflicts can be scary- but they aren't that bad!
