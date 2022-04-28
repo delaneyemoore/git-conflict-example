@@ -1,2 +1,3 @@
 # git-conflict-example
-example project for showing fix Git merge conflicts
+Example project for demonstrating how to fix Git merge conflicts.
+I love Git demos!
